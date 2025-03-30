@@ -42,6 +42,7 @@ namespace Challenge
             }
         }
     }*/
+    /* Use of DP Programming (Dynamic Programming) bottom-up traversal strategy to find the maximum path */
     class Program
     {
         static List<List<int>> pyramid = Pyramid.Inputdata();
